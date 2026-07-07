@@ -1,8 +1,8 @@
 <div align="center">
 
-# Mezanur Maruf
+<img width="100%" alt="Mezanur Maruf banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B5FFF,55:2D4CC8,100:10AB7C&height=190&section=header&text=Mezanur%20Maruf&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=CTO-minded%20Software%20Engineer%20%7C%20SaaS%20%7C%20AI%20Automation%20%7C%20Operations%20Systems&descAlignY=56&descSize=15">
 
-### CTO-minded Software Engineer · SaaS Builder · AI Automation Engineer
+### Building practical software systems for business, operations, and AI automation
 
 I build business-critical systems: AI agents, SaaS dashboards, internal operations apps, admin tools, and production web/mobile workflows.
 
@@ -16,14 +16,15 @@ I build business-critical systems: AI agents, SaaS dashboards, internal operatio
 
 ## ⚙️ Engineering Stack
 
-<p>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-Frontend-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Apps%20%26%20Agents-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-Realtime%20Ops-FFCA28?style=flat-square&logo=firebase&logoColor=111827">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-Data-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="OpenAI" src="https://img.shields.io/badge/AI%20Systems-Automation-412991?style=flat-square&logo=openai&logoColor=white">
+<p align="center">
+  <img alt="Core stack icons" src="https://skillicons.dev/icons?i=laravel,vue,flutter,ts,nodejs,firebase,postgres,github,vercel&theme=dark">
+</p>
+
+<p align="center">
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node-111827?style=for-the-badge">
+  <img alt="Frontend" src="https://img.shields.io/badge/Frontend-Vue%20%7C%20Vite-10AB7C?style=for-the-badge">
+  <img alt="Mobile" src="https://img.shields.io/badge/Mobile-Flutter-0B5FFF?style=for-the-badge">
+  <img alt="AI Systems" src="https://img.shields.io/badge/AI%20Systems-Agents%20%26%20Automation-6F42C1?style=for-the-badge">
 </p>
 
 ## 🧭 Professional Focus
@@ -67,3 +68,5 @@ Product clarity -> simple architecture -> fast iteration -> operational reliabil
   <img alt="Operations" src="https://img.shields.io/badge/Operations-Reliability-E07A3A?style=flat-square">
   <img alt="Privacy" src="https://img.shields.io/badge/Private%20Projects-Safely%20Summarized-6B7280?style=flat-square">
 </p>
+
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:10AB7C,50:2D4CC8,100:0B5FFF&height=90&section=footer">
