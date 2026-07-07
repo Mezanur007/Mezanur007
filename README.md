@@ -14,6 +14,33 @@ I build business-critical systems: AI agents, SaaS dashboards, internal operatio
 
 ---
 
+## 🛰️ Engineering Command Center
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🤖 AI Agents</h3>
+      <p>Voice automation, calling flows, AI-assisted review systems.</p>
+      <img alt="AI" src="https://img.shields.io/badge/Mode-Automation-6F42C1?style=flat-square">
+    </td>
+    <td align="center" width="25%">
+      <h3>☁️ SaaS</h3>
+      <p>APIs, tenant dashboards, admin control, customer apps.</p>
+      <img alt="SaaS" src="https://img.shields.io/badge/Mode-Multi--Tenant-0B5FFF?style=flat-square">
+    </td>
+    <td align="center" width="25%">
+      <h3>📱 Operations</h3>
+      <p>Workforce tools, sales visibility, internal execution systems.</p>
+      <img alt="Operations" src="https://img.shields.io/badge/Mode-Field%20Ops-E07A3A?style=flat-square">
+    </td>
+    <td align="center" width="25%">
+      <h3>🌐 Web Systems</h3>
+      <p>Lead capture, chat, booking, certificates, PDF/export flows.</p>
+      <img alt="Web" src="https://img.shields.io/badge/Mode-Business%20Web-10AB7C?style=flat-square">
+    </td>
+  </tr>
+</table>
+
 ## ⚙️ Engineering Stack
 
 <p align="center">
@@ -35,6 +62,20 @@ I build business-critical systems: AI agents, SaaS dashboards, internal operatio
 | ☁️ | **SaaS Platforms** | APIs, tenant dashboards, admin consoles, customer mobile experiences |
 | 📱 | **Business Operations** | Workforce apps, sales visibility, reporting, internal coordination tools |
 | 🌐 | **Web Systems** | Lead capture, admin chat, meeting flows, PDF/export, certificates, legal pages |
+
+```mermaid
+flowchart LR
+  A["Business Need"] --> B["Product Workflow"]
+  B --> C["System Architecture"]
+  C --> D["AI Automation"]
+  C --> E["SaaS Platform"]
+  C --> F["Operations App"]
+  C --> G["Admin / Web System"]
+  D --> H["Reliable Delivery"]
+  E --> H
+  F --> H
+  G --> H
+```
 
 ## 🚀 Public Proof
 
